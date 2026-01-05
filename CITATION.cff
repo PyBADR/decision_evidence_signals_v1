@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - name: "BDR-AI"
+    website: "https://huggingface.co/BDR-AI"
+title: "Decision Evidence Signals v1: Synthetic Advisory Dataset for Insurance and Justice Domains"
+version: 1.0.0
+date-released: 2026-01-06
+url: "https://huggingface.co/datasets/BDR-AI/decision_evidence_signals_v1"
+repository-code: "https://github.com/BDR-AI/decision_evidence_signals_v1"
+license: Apache-2.0
+keywords:
+  - synthetic-data
+  - decision-support
+  - advisory-systems
+  - governance
+  - insurance
+  - justice
+  - explainable-ai
+  - human-in-the-loop
+type: dataset
+abstract: |
+  A governed, enterprise-grade synthetic dataset designed to provide structured,
+  explainable, advisory evidence signals that support human decision-making in
+  insurance and justice/regulatory domains. This dataset contains 300 synthetic
+  records with no real PII or personal identifiers, designed explicitly for
+  advisory purposes only with human-in-the-loop requirements.

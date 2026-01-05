@@ -1,0 +1,7 @@
+# Requirements for BDR-AI/decision_evidence_signals_v1 Dataset Generation
+# Python 3.9+
+
+pandas==2.1.4
+pyarrow==14.0.2
+datasets==2.16.1
+huggingface-hub==0.20.2
